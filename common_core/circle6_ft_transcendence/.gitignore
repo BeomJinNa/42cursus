@@ -1,0 +1,13 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store*.js
+
+*.pem
+*.pyc
+*/myenv
+/backend/.env
+__pycache__/
+backend/myenv
+dist
+node_modules
